@@ -1,6 +1,6 @@
 accounts:
     # .damai.cn中的cookie完整字符串
-    - cookie: ""
+    - cookie: "cna=VWUAHcYIIgwCATsn4LACG5Zy; isg=BI-P04TcNwN1IzMD5prJ_FRWHSOZtOPWJa8BCqGcJv4FcK9yqYeUJhlidiBOE7tO; tfstk=cKNlBWVyB8kWNzUrhuG5NG_1dh6Oa1XrVWP4gwbv6cLnRHFqusAH3dJTyZmRfgJC.; l=fBN4iXUeNwcP9kGKBO5Cnurza77tyIRV1kPzaNbMiIEGa1YCtFsosNC1Nt7vSdtfgTfDmHKrVsl6ndhyPz4LRjkDBeYBerBEMxv9-etzRy1..; t=56f5711ed98f6ebe95b5ee80c0715ff3; damai.cn_nickName=%E9%BA%A6%E5%AD%902vjpI; _bl_uid=jnld3i0kqndpqn2b9r0y8naqnmXU; _m_h5_tk=70e07fe8b8f95b1662692c6167baff92_1686450967510; _m_h5_tk_enc=4ec6696361a727e7ff220a27f55c0082; _samesite_flag_=true; cookie2=17e728894a95a89771a80e222041a187; _tb_token_=517e8a9e77bbf; xlly_s=1; _hvn_login=18; munb=2212886622672; csg=f48a054a; usercode=180746969; dm_nickname=%E9%BA%A6%E5%AD%902vjpI; havanaId=2212886622672"
       remark: 账号1
 
       # 轮询判断当前时间是否大于等于可以请求数据的时间, 单位ms
